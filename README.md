@@ -1,10 +1,4 @@
-Certainly! Here's a README template for your Python game code:
-
----
-
 # Hogwarts Adventure Game
-
-![Hogwarts Castle ASCII Art](hogwarts_ascii_art.png)
 
 ## Introduction
 
